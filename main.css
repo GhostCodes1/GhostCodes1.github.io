@@ -1,0 +1,36 @@
+ h1 {
+    color: #00aaff
+  }
+
+  body {
+    background-image: linear-gradient(to bottom right, #00cf00, #00afff);
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+
+  p {
+    color: #ff0000
+  }
+
+  ol {
+    color: #aa00aa
+  }
+
+  ul {
+    color: #ffa500
+  }
+
+  #nerve {
+    height: 350px;
+  }
+
+  #div1 {
+    display: inline-block;
+    width: 50%;
+    margin: 0 auto;
+    float: right;
+  }
+  #Netflix {height:200px;
+  width:350px}
+  #smor {color:fireBrick}
+  h3 {color:#b171d1}
