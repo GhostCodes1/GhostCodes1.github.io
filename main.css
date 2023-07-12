@@ -1,13 +1,26 @@
- h1 {
+h1 {
     color: #00aaff
   }
+hr {
+  height:6px;
+  background-color:yellow;
+  width:722px;
+}
 
-  body {
+  /*body {
     background-image: linear-gradient(to bottom right, #00cf00, #00afff);
     background-repeat: no-repeat;
     height: 100vh;
-  }
+  }*/
 
+.lists {
+ width:722px; 
+ border: 6px solid yellow}
+
+
+body {
+    background: linear-gradient(to top left, #33ccff 0%, #ff99cc 100%);
+}
   p {
     color: #ff0000
   }
@@ -21,7 +34,9 @@
   }
 
   #nerve {
-    height: 350px;
+    height: 324px;
+    border:5px solid black;
+    
   }
 
   #div1 {
@@ -34,3 +49,29 @@
   width:350px}
   #smor {color:fireBrick}
   h3 {color:#b171d1}
+#poop {
+  color:mediumVioletRed;
+  font-size: 500%; 
+}
+/*#poopimg {
+    display: inline-block;
+    margin: 0 auto;*/
+    height:50px;
+    width:50px;
+}
+#poopDiv {
+  width: 200px;
+  margin: 0 auto;
+}
+
+#poopText {
+  float:left;
+  width:40%;
+}
+
+#poopImage {
+    display: inline-block;
+    width: 40%;
+    margin: 0 auto;
+    float: right;
+ }
